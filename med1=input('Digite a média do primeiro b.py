@@ -1,0 +1,5 @@
+med1=input('Digite a média do primeiro bimestre:')
+med2=input('Digite a média do segundo bimestre:')
+med3=input('Digite a média do terceiro bimestre:')
+med4=input('Digite a média do quarto bimestre:')
+media=round((med1+med2+med3+med4)/4)
